@@ -1,6 +1,6 @@
 # exercise-tracking-app 🏃‍🏃‍♀️
 
-React app that allows users to track, edit and delete their daily exercises.
+Full stack React app that allows users to track, edit and delete their daily exercises.
  
 ![ExTracker App Demo](demo/create.gif)
 
