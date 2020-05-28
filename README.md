@@ -1,6 +1,6 @@
-# exercise-tracking-app
+# exercise-tracking-app 🏃‍🏃‍♀️
 
-React app that allows users to track, edit and delete their daily exercises 🏃‍🏃‍♀️
+React app that allows users to track, edit and delete their daily exercises 
 
 #### Add your exercise: 
 ![ExTracker App Demo](demo/create.gif)
@@ -10,4 +10,13 @@ React app that allows users to track, edit and delete their daily exercises 🏃
 
 Functionalities also include adding new usernames and deleting logs.
 
-Built with 
+Built on Merns stack:
+  - MongoDB
+  - Express
+  - React
+  - Node.js
+  
+Project From: https://github.com/beaucarnes/mern-exercise-tracker-mongodb
+Walkthrough at: https://www.youtube.com/watch?v=7CqJlxBYj-M
+
+
